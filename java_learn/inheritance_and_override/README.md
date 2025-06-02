@@ -8,6 +8,9 @@
 - `ConstructorInheritanceExample.java`  
   スーパークラスのコンストラクタをサブクラスから呼び出す方法とその挙動を確認するサンプルです。
 
+- `EmployeeManagerExample.java`  
+  `Employee` クラスと `Manager` クラスの継承関係を使って業務内容を表示する課題形式のプログラム。サブクラスで独自のメソッドを定義し、基底クラスの機能と併用して業務と管理業務の両方を実行する様子を確認できる。  
+  
 - `OverrideMethodExample.java`  
   サブクラスでスーパークラスのメソッドをオーバーライドし、同名メソッドがどのように動作するかを確認します。
 
