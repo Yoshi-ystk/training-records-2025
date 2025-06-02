@@ -11,6 +11,10 @@
 - `branching`  
   if文、switch文、三項演算子など、条件分岐に関するサンプルを収録。
 
+- `class_libraries_and_wrappers`  
+  Javaの標準クラス（String, Integer, Mathなど）やラッパークラスに関するサンプルを収録。  
+  文字列の操作、数値変換、数値演算、文字検索、メソッドの活用方法など、基本的なユーティリティクラスの使い方に焦点を当てた構成。  
+  
 - `looping`  
   for文、while文、do-while文などの繰り返し処理に関するサンプルを収録。
 
