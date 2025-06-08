@@ -11,7 +11,7 @@ public class BasicWindowFrame extends Frame { // フレームクラスを拡張
     // プログラムのエントリーポイント
     // フレームのインスタンスを生成して表示public static void main(String[] args){
     public static void main(String[] args) {
-        BasicWindowFrame sm = new BasicWindowFrame(); // 拡張したクラスからオブジェクトを作成
+        new BasicWindowFrame(); // 拡張したクラスからオブジェクトを作成
     }
 
     // ウィンドウのタイトル、サイズ、リスナー設定を行う

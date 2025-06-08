@@ -9,7 +9,7 @@ public class ButtonClickAction extends Frame {
 
     public static void main(String[] args) {
         // アプリケーションの起点となるウィンドウを生成
-        ButtonClickAction buttonAction = new ButtonClickAction();
+        new ButtonClickAction();
     }
 
     public ButtonClickAction() {
