@@ -55,7 +55,11 @@
 
 - `threads_and_synchronization`  
   スレッド処理と同期機構に関するサンプルを収録。  
-  主な内容：単一・複数スレッド、スリープ、ジョイン、Runnableの実装、同期なしの問題例とsynchronizedによる解決。
+  主な内容：単一・複数スレッド、スリープ、ジョイン、Runnableの実装、同期なしの問題例とsynchronizedによる解決。  
+
+- `collections_and_generics`  
+  コレクションフレームワークとジェネリクスに関するサンプルを収録。  
+  主な内容：ArrayList、HashSet、TreeSet、HashMap の基本操作、カスタムオブジェクトの格納、イテレータの使用、ジェネリクスによる型安全なコーディング。  
 
 - `gui_basics`  
   GUIアプリケーションの基礎に関するサンプルを収録。  
