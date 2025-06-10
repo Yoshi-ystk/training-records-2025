@@ -1,0 +1,68 @@
+# 変数・演算・キーボード入力の基本
+
+# 数値を変数に代入し、出力する
+sale = 10
+print("売り上げは", sale, "万円です。")
+
+# 変数の値を変更して出力する
+sale = 10
+print("売り上げは", sale, "万円です。")
+print("売上の値を変更します。")
+sale = 20
+print("売り上げは", sale, "万円です。")
+
+# 文字列と数値の変数を組み合わせて使う
+name = "東京"
+sale = 10
+print(name, "支店の売上は", sale, "万円です。")
+
+# 式を直接print文に書く
+print("1+2は", 1+2 , "です。")
+
+# 計算結果を変数に入れて出力する
+price = 50
+num = 10
+total = price * num
+print("単価は", price, "円です。")
+print("売上個数は", num, "個です。")
+print("合計金額は", total, "円です。")
+# 値引き後の計算
+total = total - 100
+print("値引きすると", total, "円です。")
+
+# 様々な演算子の利用例
+num1 = 10
+num2 = 5
+
+print("num1+num2は" , num1+num2 , "です。")
+print("num1-num2は" , num1-num2 , "です。")
+print("num1*num2は" , num1*num2 , "です。")
+print("num1/num2は" , num1/num2 , "です。")
+print("num1%num2は" , num1%num2 , "です。")
+
+# 文字列を操作する演算子
+num = 10
+pic = "〇"
+graph = pic * num
+print("売上：" + graph)
+print(num , "万円の売上があります。")
+
+# キーボード入力を受け取って出力する
+n = input("値を入力してください。")
+print(n , "が入力されました。")
+
+# 数値（整数）を2つ入力して合計を出す
+num1 = int(input("整数1を入力してください。"))
+num2 = int(input("整数2を入力してください。"))
+num3 = num1 + num2
+print(num1 , "+" , num2 , "は" , num3 , "です。")
+
+# 練習：年齢を入力して出力する
+num = int(input("あなたは何才ですか？"))
+print("あなたは" , num , "才です。")
+
+# 練習：身長と体重を入力して出力する
+num1 = float(input("身長を入力してください。"))
+num2 = float(input("体重を入力してください。"))
+print("身長は" , num1 , "センチです。")
+print("体重は" , num2 , "キロです。")
