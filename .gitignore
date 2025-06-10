@@ -1,5 +1,8 @@
 # Java: コンパイル済みバイナリを除外
 *.class
+*.jar
+*.war
+*.ear
 
 # Python: キャッシュファイルや仮想環境を除外
 __pycache__/
@@ -9,20 +12,32 @@ __pycache__/
 .env/
 .venv/
 venv/
+Pipfile.lock
 
 # VBA: 一般的にGitで追跡しないOfficeの一時ファイル
 ~$*
+*.tmp
 
 # macOS: Finderやファイル管理関連の不要ファイル
 .DS_Store
+.AppleDouble
+.LSOverride
 
 # VSCodeのユーザー設定（個人差があるため）
 .vscode/
+*.code-workspace
 
-# Gitの一時ファイル
+# GitやVimの一時ファイル
 *.swp
 *.swo
+*.orig
 
 # その他：バックアップやログ
 *.log
 *.bak
+*.tmp
+*.~*
+
+# OS共通：Thumbs.dbやdesktop.ini（主にWindows）
+Thumbs.db
+desktop.ini
