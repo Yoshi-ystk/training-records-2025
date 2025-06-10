@@ -2,7 +2,7 @@
 package java_learn.arrays_and_multidimensional;
 
 public class ArrayLengthIteration {
-    public static void main(String[] arge) {
+    public static void main(String[] args) {
 
         int[] test = { 80, 60, 22, 50, 75 };
 

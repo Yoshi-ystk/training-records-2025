@@ -10,7 +10,7 @@ public class LabelComponentExample extends Frame {
 
     public static void main(String[] args) {
         // ウィンドウを生成（コンストラクタが呼ばれる）
-        LabelComponentExample lce = new LabelComponentExample();
+        new LabelComponentExample();
     }
 
     public LabelComponentExample() {
