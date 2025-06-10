@@ -5,7 +5,7 @@
 
 ## 📁 フォルダ構成
 
-- `python_intro`  
+- [`python_intro`](./python_intro)  
   Pythonの基本文法に関するサンプルを収録。  
   主な内容：print文、文字列と数値の操作、演算子、変数の代入、キーボード入力、if文・for文・while文の基本など。  
 
