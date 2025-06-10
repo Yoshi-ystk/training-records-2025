@@ -1,4 +1,5 @@
-# training-records-2025  
+# training-records-2025
+
 職業訓練でのプログラミング学習記録（2025年4月〜8月）
 
 ---
@@ -17,13 +18,13 @@ Java、Excel VBA、Pythonを順に学習し、それぞれの言語について�
 
 ## 📁 フォルダ構成
 
-- [`java_learn/`](./java_learn/)  
+- [`java`](./java/)  
   Java基礎〜応用（クラス、継承、インターフェース、例外処理、コレクション、スレッドなど）を学習単元ごとに整理。演習・コメント付き。
 
-- [`vbe_learn/`](./vbe_learn/)  
+- [`vbe`](./vbe/)  
   Excel VBA の基礎文法、フォーム制御、テスト対策、実務的な記述例を `.bas` ファイル形式で保存。簡潔なREADME付き。
 
-- [`python_learn/`](./python_learn/)  
+- [`python`](./python/)  
   Pythonの基本構文、入力・出力・分岐・ループ処理などをJavaとの比較を意識して整理。今後、分析ライブラリやグラフ描画も追加予定。
 
 ---
