@@ -21,6 +21,22 @@
   Pythonにおける関数定義・呼び出し・引数の使い方についての復習コードを収録。  
   主な内容：関数の作り方、引数と戻り値、ネスト、変数スコープ、デフォルト引数など。
 
+- [`class_basics`](./class_basics)  
+  クラス構文とオブジェクト指向の基礎に関する演習コードを収録。  
+  主な内容：クラス定義、インスタンス生成、コンストラクタ、継承、オーバーライドなど。
+
+- [`file_and_exception_handling`](./file_and_exception_handling)  
+  ファイル操作・例外処理・OSや日時モジュールの使い方を学習。  
+  主な内容：ファイル入出力（txt, csv, json）、try-except、os, datetimeモジュールなど。
+
+- [`string_and_regex`](./string_and_regex)  
+  文字列の基本操作と正規表現によるパターンマッチングの演習コードを収録。  
+  主な内容：文字列の検索・置換・整形、正規表現による抽出、グループ化、繰り返しなど。
+
+- [`database_and_network`](./database_and_network)  
+  SQLiteによるデータベース操作と、ネットワークからのHTML取得と解析の基礎。  
+  主な内容：sqlite3モジュールによるSQL操作、urllibとHTMLParserを使ったスクレイピングなど。
+
 ## 📌 補足
 
 - 各サブフォルダには `README.md` を設置しており、収録ファイルの説明を記載しています。
