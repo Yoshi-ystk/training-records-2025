@@ -22,6 +22,7 @@ Pipfile.lock
 .DS_Store
 .AppleDouble
 .LSOverride
+._*
 
 # VSCodeのユーザー設定（個人差があるため）
 .vscode/
